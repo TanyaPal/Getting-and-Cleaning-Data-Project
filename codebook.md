@@ -1,5 +1,6 @@
 Codebook
-The generated output is saved to the file tidy-data.txt. This file includes all rows merged from the test and training data included in the activity recognition dataset.
+
+The generated output is saved to the file tidy_data.txt. This file includes all rows merged from the test and training data included in the activity recognition dataset.
 
 The analysis addresses the training and test data separately, first combining the feature vector with outcome variables and subject identifiers (e.g. X_train.txt, Y_train.txt, subject_train.txt), and then merges the training and test data into a single, larger dataset.
 
